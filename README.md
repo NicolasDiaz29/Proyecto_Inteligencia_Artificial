@@ -1,6 +1,6 @@
 # Proyecto_Inteligencia_Artificial
 
-![Banner del proyecto](images/banner.png)
+![Banner del proyecto](Imagen_Proyecto.png)
 
 Autores:  
 * Anderson Nicolas Díaz Camacho - 2214105
